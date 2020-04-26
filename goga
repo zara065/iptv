@@ -125,8 +125,6 @@ http://hrv.00387.info/Eurosport2HD/index.m3u8?token=test
 http://hrv.00387.info/GER:DESkySport1/index.m3u8?token=test
 #EXTINF:-1 ,E!Entertain UHD _155
 http://hrv.00387.info/GER:E!EntertainmUHD/index.m3u8?token=test
-#EXTINF:-1 ,JUNIOR UHD _157
-http://hrv.00387.info/GER:JUNIORUHD/index.m3u8?token=test
 #EXTINF:-1 ,RTL-DE _158
 http://hrv.00387.info/GER:RTL-DE/index.m3u8?token=test
 #EXTINF:-1 ,CINEMA24 UHD _159
@@ -299,24 +297,6 @@ http://srb.00387.info/SCIFI/index.m3u8?token=test
 http://srb.00387.info/SL:SLOTV1/index.m3u8?token=test
 #EXTINF:-1 ,SLOTV2_287
 http://srb.00387.info/SL:SLOTV2/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub2SRHD _288
-http://srb.00387.info/SportKlub2SRHD/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub3SRHD _289
-http://srb.00387.info/SportKlub3SRHD/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub4_290
-http://srb.00387.info/SportKlub4/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub5_291
-http://srb.00387.info/SportKlub5/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub6_292
-http://srb.00387.info/SportKlub6/index.m3u8?token=test
-#EXTINF:-1 ,SportKlubHD _293
-http://srb.00387.info/SportKlubHD/index.m3u8?token=test
-#EXTINF:-1 ,SportKlubSR1HD _294
-http://srb.00387.info/SportKlubSR1HD/index.m3u8?token=test
-#EXTINF:-1 ,SR:EuroSport1HD _295
-http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
-#EXTINF:-1 ,tc1_296
-http://srb.00387.info/tc1/index.m3u8?token=test
 #EXTINF:-1 ,tc2_297
 http://srb.00387.info/tc2/index.m3u8?token=test
 #EXTINF:-1 ,tc3_298
@@ -333,46 +313,6 @@ http://hrv.00387.info/Arena2HDHR/index.m3u8?token=test
 http://hrv.00387.info/Arena3HDHR/index.m3u8?token=test
 #EXTINF:-1 ,Arena 4 HD
 http://hrv.00387.info/Arena4HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 5 HD
-http://hrv.00387.info/Arena5HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport promo
-http://hrv.00387.info/PlanetSport3HD/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport 1 HD _198
-http://hrv.00387.info/PlanetSport1HD/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport 2 HD _199
-http://hrv.00387.info/PlanetSport2HD/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport 3 HD _200
-http://hrv.00387.info/PlanetSport3HD/index.m3u8?token=test
-#EXTINF:-1 ,Arena Sport 1 SR _225
-http://srb.00387.info/ArenaSport1SR/index.m3u8?token=test
-#EXTINF:-1 ,Arena Sport 3 SR _227
-http://srb.00387.info/ArenaSport3SR/index.m3u8?token=test
-#EXTINF:-1 ,Arena Sport 4 SR _228
-http://srb.00387.info/ArenaSport4SR/index.m3u8?token=test
-#EXTINF:-1 ,Arena Sport 5 SR _229
-http://srb.00387.info/ArenaSport5SR/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub SR 1 HD _294
-http://srb.00387.info/SportKlubSR1HD/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub 2 SR HD _288
-http://srb.00387.info/SportKlub2SRHD/index.m3u8?token=test
-#EXTINF:-1 ,SportKlub 3 SR HD _289
-http://srb.00387.info/SportKlub3SRHD/index.m3u8?token=test
-#EXTINF:-1 ,Sport Klub 4_290
-http://srb.00387.info/SportKlub4/index.m3u8?token=test
-#EXTINF:-1 ,Sport Klub 5_291
-http://srb.00387.info/SportKlub5/index.m3u8?token=test
-#EXTINF:-1 ,Sport Klub 6_292
-http://srb.00387.info/SportKlub6/index.m3u8?token=test
-#EXTINF:-1 ,Sport Klub HD _293
-http://srb.00387.info/SportKlubHD/index.m3u8?token=test
-#EXTINF:-1 ,SR:EuroSport 1 HD _295
-http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
-#EXTINF:-1 ,ArenaSport1SR _225
-http://srb.00387.info/ArenaSport1SR/index.m3u8?token=test
-#EXTINF:-1 ,ArenaSport3SR _227
-http://srb.00387.info/ArenaSport3SR/index.m3u8?token=test
-#EXTINF:-1 ,ArenaSport4SR _228
-http://srb.00387.info/ArenaSport4SR/index.m3u8?token=test
 #EXTINF:-1 ,PRVA TV
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/2
 #EXTINF:-1 ,RTS 1
@@ -419,12 +359,7 @@ http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/22
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/23
 #EXTINF:-1 ,MOTOR SPORT
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/24
-#EXTINF:-1 ,Esport Club
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/25
-#EXTINF:-1 ,Horizont Sports
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/26
-#EXTINF:-1 ,Auto Moto TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/27
+
 #EXTINF:-1 ,CBC Sofra
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/28
 #EXTINF:-1 ,Viasat Sport HD
@@ -483,9 +418,3 @@ http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/73
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/79
 #EXTINF:-1 ,Al Jazira Balkan
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/92
-#EXTINF:-1,Croatia
-channels/hr.m3u
-#EXTINF:-1,Serbia
-channels/rs.m3u
-#EXTINF:-1,Bosnia and Herzegovina
-channels/ba.m3u
