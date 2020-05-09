@@ -1,6 +1,47 @@
 #EXTM3U
-#EXTINF:-1 ,HNTV _177
-http://hrv.00387.info/HNTV/index.m3u8?token=test
+#EXTINF:-1 ,RTRS
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/48
+#EXTINF:-1 ,AlternativnaTV _29
+http://bos.00387.info/AlternativnaTV/index.m3u8?token=test
+#EXTINF:-1 ,BHT1 HD _31
+http://bos.00387.info/BHT1HD/index.m3u8?token=test
+#EXTINF:-1 ,BN TELEVIZIJA HD _32
+http://bos.00387.info/BNTELEVIZIJAHD/index.m3u8?token=test
+#EXTINF:-1 ,BN TELEVIZIJA SD _33
+http://bos.00387.info/BNTELEVIZIJASD/index.m3u8?token=test
+#EXTINF:-1 ,OBNSAT _53
+http://bos.00387.info/OBNSAT/index.m3u8?token=test
+#EXTINF:-1 ,RTRS Plus
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/74
+#EXTINF:-1 ,RTRS _54
+#EXTINF:-1 ,Pink _268
+http://srb.00387.info/Pink/index.m3u8?token=test
+#EXTINF:-1 ,Pink2_269
+http://srb.00387.info/Pink2/index.m3u8?token=test
+#EXTINF:-1 ,Pink3_270
+http://srb.00387.info/Pink3/index.m3u8?token=test
+#EXTINF:-1 ,PINKACTION _271
+http://srb.00387.info/PINKACTION/index.m3u8?token=test
+#EXTINF:-1 ,PINKFILM _272
+http://srb.00387.info/PINKFILM/index.m3u8?token=test
+#EXTINF:-1 ,PINKMOVIES _273
+http://srb.00387.info/PINKMOVIES/index.m3u8?token=test
+#EXTINF:-1 ,PinkWestern _275
+http://srb.00387.info/PinkWestern/index.m3u8?token=test
+#EXTINF:-1 ,PinkMedia Montenegro _196
+http://hrv.00387.info/PinkMediaMontenegro/index.m3u8?token=test
+#EXTINF:-1 ,PikabooHD _267
+http://srb.00387.info/PikabooHD/index.m3u8?token=test
+#EXTINF:-1 ,HRT 1
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/5
+#EXTINF:-1 ,HRT 2
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/6
+#EXTINF:-1 ,HRT 3
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/7
+#EXTINF:-1 ,HRT 4
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/8
+#EXTINF:-1 ,RTL HR
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/9
 #EXTINF:-1 ,HRT3 HD _178
 http://hrv.00387.info/HRT3HD/index.m3u8?token=test
 #EXTINF:-1 ,HRT3 SD _179
@@ -11,10 +52,32 @@ http://hrv.00387.info/HRT4HD/index.m3u8?token=test
 http://hrv.00387.info/HRT4SD/index.m3u8?token=test
 #EXTINF:-1 ,HRT5 SD _182
 http://hrv.00387.info/HRT5SD/index.m3u8?token=test
+#EXTINF:-1 ,RTL2 HR _203
+http://hrv.00387.info/RTL2HR/index.m3u8?token=test
+#EXTINF:-1 ,RTL Crime _204
+http://hrv.00387.info/RTLCrime/index.m3u8?token=test
+#EXTINF:-1 ,RTL HR _205
+http://hrv.00387.info/RTLHR/index.m3u8?token=test
+#EXTINF:-1 ,RTL Living _206
+http://hrv.00387.info/RTLLiving/index.m3u8?token=test
+#EXTINF:-1 ,RTL Passion _207
+http://hrv.00387.info/RTLPassion/index.m3u8?token=test
+#EXTINF:-1 ,HNTV _177
+http://hrv.00387.info/HNTV/index.m3u8?token=test
 #EXTINF:-1 ,JadranTV _184
 http://hrv.00387.info/JadranTV/index.m3u8?token=test
-#EXTINF:-1 ,Kanal5 MK _185
-http://hrv.00387.info/Kanal5MK/index.m3u8?token=test
+#EXTINF:-1 ,DOMA TV HD _151
+http://hrv.00387.info/DOMATVHD/index.m3u8?token=test
+#EXTINF:-1 ,DOMA TV SD _152
+http://hrv.00387.info/DOMATVSD/index.m3u8?token=test
+#EXTINF:-1 ,Z1
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/75
+#EXTINF:-1 ,N1 HR
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/76
+#EXTINF:-1 ,Trend HR
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/77
+#EXTINF:-1 ,Slavonska
+http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/78
 #EXTINF:-1 ,LaudatoTV _186
 http://hrv.00387.info/LaudatoTV/index.m3u8?token=test
 #EXTINF:-1 ,MrezaST _188
@@ -31,30 +94,12 @@ http://hrv.00387.info/MRT3/index.m3u8?token=test
 http://hrv.00387.info/N1HDHR/index.m3u8?token=test
 #EXTINF:-1 ,NOVATV SD _194
 http://hrv.00387.info/NOVATVSD/index.m3u8?token=test
-#EXTINF:-1 ,PinkMedia Montenegro _196
-http://hrv.00387.info/PinkMediaMontenegro/index.m3u8?token=test
 #EXTINF:-1 ,Unknown_197
 http://hrv.00387.info/pinkplus/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport 1 HD _198
-http://hrv.00387.info/PlanetSport1HD/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport 2 HD _199
-http://hrv.00387.info/PlanetSport2HD/index.m3u8?token=test
-#EXTINF:-1 ,Planet Sport 3 HD _200
-http://hrv.00387.info/PlanetSport3HD/index.m3u8?token=test
 #EXTINF:-1 ,Plava vinkovacka _201
 http://hrv.00387.info/Plavavinkovacka/index.m3u8?token=test
 #EXTINF:-1 ,RTCG Sat _202
 http://hrv.00387.info/RTCGSat/index.m3u8?token=test
-#EXTINF:-1 ,RTL2 HR _203
-http://hrv.00387.info/RTL2HR/index.m3u8?token=test
-#EXTINF:-1 ,RTL Crime _204
-http://hrv.00387.info/RTLCrime/index.m3u8?token=test
-#EXTINF:-1 ,RTL HR _205
-http://hrv.00387.info/RTLHR/index.m3u8?token=test
-#EXTINF:-1 ,RTL Living _206
-http://hrv.00387.info/RTLLiving/index.m3u8?token=test
-#EXTINF:-1 ,RTL Passion _207
-http://hrv.00387.info/RTLPassion/index.m3u8?token=test
 #EXTINF:-1 ,Sitel _208
 http://hrv.00387.info/Sitel/index.m3u8?token=test
 #EXTINF:-1 ,SrceTV _210
@@ -79,14 +124,6 @@ http://hrv.00387.info/Z1/index.m3u8?token=test
 http://bos.00387.info/ALFATV/index.m3u8?token=test
 #EXTINF:-1 ,AlJazeera Balkans HD _28
 http://bos.00387.info/AlJazeeraBalkansHD/index.m3u8?token=test
-#EXTINF:-1 ,AlternativnaTV _29
-http://bos.00387.info/AlternativnaTV/index.m3u8?token=test
-#EXTINF:-1 ,BHT1 HD _31
-http://bos.00387.info/BHT1HD/index.m3u8?token=test
-#EXTINF:-1 ,BN TELEVIZIJA HD _32
-http://bos.00387.info/BNTELEVIZIJAHD/index.m3u8?token=test
-#EXTINF:-1 ,BN TELEVIZIJA SD _33
-http://bos.00387.info/BNTELEVIZIJASD/index.m3u8?token=test
 #EXTINF:-1 ,CITYTV _35
 http://bos.00387.info/CITYTV/index.m3u8?token=test
 #EXTINF:-1 ,Un InvestigationNetwork known_36
@@ -97,28 +134,12 @@ http://bos.00387.info/DOK:TravelChannel/index.m3u8?token=test
 http://bos.00387.info/FACETV/index.m3u8?token=test
 #EXTINF:-1 ,a1 TVCG
 http://hrv.00387.info/a1TVCG/index.m3u8?token=test
-#EXTINF:-1 ,AlfaTV MK
-http://hrv.00387.info/AlfaTVMK/index.m3u8?token=test
-#EXTINF:-1 ,Arena1 HD HR
-http://hrv.00387.info/Arena1HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 2 HD HR
-http://hrv.00387.info/Arena2HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 3 HD HR _143
-http://hrv.00387.info/Arena3HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 5 HD HR _145
-http://hrv.00387.info/Arena5HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Boomerang TV _147
-http://hrv.00387.info/BoomerangTV/index.m3u8?token=test
 #EXTINF:-1 ,CINESTAR FANTASY _148
 http://hrv.00387.info/CINESTARFANTASY/index.m3u8?token=test
 #EXTINF:-1 ,Cinestar Premiere 1_149
 http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test
 #EXTINF:-1 ,Cinestar Premiere 2_150
 http://hrv.00387.info/CinestarPremiere2/index.m3u8?token=test
-#EXTINF:-1 ,DOMA TV HD _151
-http://hrv.00387.info/DOMATVHD/index.m3u8?token=test
-#EXTINF:-1 ,DOMA TV SD _152
-http://hrv.00387.info/DOMATVSD/index.m3u8?token=test
 #EXTINF:-1 ,Eurosport 2 HD _153
 http://hrv.00387.info/Eurosport2HD/index.m3u8?token=test
 #EXTINF:-1 ,DE Sport 1_154
@@ -129,10 +150,6 @@ http://hrv.00387.info/GER:E!EntertainmUHD/index.m3u8?token=test
 http://hrv.00387.info/GER:RTL-DE/index.m3u8?token=test
 #EXTINF:-1 ,CINEMA24 UHD _159
 http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
-#EXTINF:-1 ,SPORTAUSTRIA UHD _160
-http://hrv.00387.info/GER:SkySPORTAUSTRIAUHD/index.m3u8?token=test
-#EXTINF:-1 ,SpiegelGeschichte HD _161
-http://hrv.00387.info/GER:SpiegelGeschichteHD/index.m3u8?token=test
 #EXTINF:-1 ,TELE5 HD _163
 http://hrv.00387.info/GER:TELE5HD/index.m3u8?token=test
 #EXTINF:-1 ,TNTCOMEDY UHD _164
@@ -161,9 +178,6 @@ http://bos.00387.info/NOVABHSD/index.m3u8?token=test
 http://bos.00387.info/NTVAMNA/index.m3u8?token=test
 #EXTINF:-1 ,NTVICKAKANJ _52
 http://bos.00387.info/NTVICKAKANJ/index.m3u8?token=test
-#EXTINF:-1 ,OBNSAT _53
-http://bos.00387.info/OBNSAT/index.m3u8?token=test
-#EXTINF:-1 ,RTRS _54
 http://bos.00387.info/RTRS/index.m3u8?token=test
 #EXTINF:-1 ,RTV7TUZLA _55
 http://bos.00387.info/RTV7TUZLA/index.m3u8?token=test
@@ -207,7 +221,7 @@ http://srb.00387.info/c5/index.m3u8?token=test
 http://srb.00387.info/c6/index.m3u8?token=test
 #EXTINF:-1 ,c7_237
 http://srb.00387.info/c7/index.m3u8?token=test
-#EXTINF:-1 ,c8_238
+#EXTINF:-1 ,cinema
 http://srb.00387.info/c8/index.m3u8?token=test
 #EXTINF:-1 ,RTCG1_239
 http://srb.00387.info/CG:RTCG1/index.m3u8?token=test
@@ -215,10 +229,6 @@ http://srb.00387.info/CG:RTCG1/index.m3u8?token=test
 http://srb.00387.info/CG:RTCG2/index.m3u8?token=test
 #EXTINF:-1 ,CNN _241
 http://srb.00387.info/CNN/index.m3u8?token=test
-#EXTINF:-1 ,KABELEINSUHD _242
-http://srb.00387.info/DE:KABELEINSUHD/index.m3u8?token=test
-#EXTINF:-1 ,PROSIEBENUHD _243
-http://srb.00387.info/DE:PROSIEBENUHD/index.m3u8?token=test
 #EXTINF:-1 ,DiscoverySerbia _244
 http://srb.00387.info/DiscoverySerbia/index.m3u8?token=test
 #EXTINF:-1 ,FoxCrimeSouthEastEurope _245
@@ -237,8 +247,6 @@ http://srb.00387.info/GER:SKYCINEMAACTIONUHD/index.m3u8?token=test
 http://srb.00387.info/GER:SKYCINEMAHITSUHD/index.m3u8?token=test
 #EXTINF:-1 ,CINEMAUHD _253
 http://srb.00387.info/GER:SKYCINEMAUHD/index.m3u8?token=test
-#EXTINF:-1 ,SPORT2UHD _254
-http://srb.00387.info/GER:SKYSPORT2UHD/index.m3u8?token=test
 #EXTINF:-1 ,VOX _255
 http://srb.00387.info/GER:VOX/index.m3u8?token=test
 #EXTINF:-1 ,ZDFHD _256
@@ -259,22 +267,6 @@ http://srb.00387.info/NOVAM/index.m3u8?token=test
 http://srb.00387.info/NOVARS/index.m3u8?token=test
 #EXTINF:-1 ,O2TV _265
 http://srb.00387.info/O2TV/index.m3u8?token=test
-#EXTINF:-1 ,PikabooHD _267
-http://srb.00387.info/PikabooHD/index.m3u8?token=test
-#EXTINF:-1 ,Pink _268
-http://srb.00387.info/Pink/index.m3u8?token=test
-#EXTINF:-1 ,Pink2_269
-http://srb.00387.info/Pink2/index.m3u8?token=test
-#EXTINF:-1 ,Pink3_270
-http://srb.00387.info/Pink3/index.m3u8?token=test
-#EXTINF:-1 ,PINKACTION _271
-http://srb.00387.info/PINKACTION/index.m3u8?token=test
-#EXTINF:-1 ,PINKFILM _272
-http://srb.00387.info/PINKFILM/index.m3u8?token=test
-#EXTINF:-1 ,PINKMOVIES _273
-http://srb.00387.info/PINKMOVIES/index.m3u8?token=test
-#EXTINF:-1 ,PinkWestern _275
-http://srb.00387.info/PinkWestern/index.m3u8?token=test
 #EXTINF:-1 ,Prva _277
 http://srb.00387.info/Prva/index.m3u8?token=test
 #EXTINF:-1 ,PrvaCG _278
@@ -305,30 +297,12 @@ http://srb.00387.info/tc3/index.m3u8?token=test
 http://srb.00387.info/TVBANAT/index.m3u8?token=test
 #EXTINF:-1 ,TVPalmaPlus _300
 http://srb.00387.info/TVPalmaPlus/index.m3u8?token=test
-#EXTINF:-1 ,Arena 1 HD
-http://hrv.00387.info/Arena1HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 2 HD
-http://hrv.00387.info/Arena2HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 3 HD
-http://hrv.00387.info/Arena3HDHR/index.m3u8?token=test
-#EXTINF:-1 ,Arena 4 HD
-http://hrv.00387.info/Arena4HDHR/index.m3u8?token=test
 #EXTINF:-1 ,PRVA TV
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/2
 #EXTINF:-1 ,RTS 1
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/3
 #EXTINF:-1 ,BN TV
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/4
-#EXTINF:-1 ,HRT 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/5
-#EXTINF:-1 ,HRT 2
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/6
-#EXTINF:-1 ,HRT 3
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/7
-#EXTINF:-1 ,HRT 4
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/8
-#EXTINF:-1 ,RTL HR
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/9
 #EXTINF:-1 ,RTCG Sat
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/10
 #EXTINF:-1 ,777 Tehnika TV
@@ -359,7 +333,6 @@ http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/22
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/23
 #EXTINF:-1 ,MOTOR SPORT
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/24
-
 #EXTINF:-1 ,CBC Sofra
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/28
 #EXTINF:-1 ,Viasat Sport HD
@@ -368,26 +341,10 @@ http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/29
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/30
 #EXTINF:-1 ,NOVA TV
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/47
-#EXTINF:-1 ,RTRS
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/48
 #EXTINF:-1 ,Hayat
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/49
 #EXTINF:-1 ,Heppy TV
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/50
-#EXTINF:-1 ,DRAGON BALL Z TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/71
-#EXTINF:-1 ,DRAGON BALL KAI TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/72
-#EXTINF:-1 ,RTRS Plus
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/74
-#EXTINF:-1 ,Z1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/75
-#EXTINF:-1 ,N1 HR
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/76
-#EXTINF:-1 ,Trend HR
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/77
-#EXTINF:-1 ,Slavonska
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/78
 #EXTINF:-1 ,K:CN 1
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/80
 #EXTINF:-1 ,K:CN 2
