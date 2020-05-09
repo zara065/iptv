@@ -30,8 +30,6 @@ http://srb.00387.info/PINKMOVIES/index.m3u8?token=test
 http://srb.00387.info/PinkWestern/index.m3u8?token=test
 #EXTINF:-1 ,PinkMedia Montenegro _196
 http://hrv.00387.info/PinkMediaMontenegro/index.m3u8?token=test
-#EXTINF:-1 ,PikabooHD _267
-http://srb.00387.info/PikabooHD/index.m3u8?token=test
 #EXTINF:-1 ,HRT 1
 http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/5
 #EXTINF:-1 ,HRT 2
