@@ -1,375 +1,350 @@
 #EXTM3U
-#EXTINF:-1 ,RTRS
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/48
-#EXTINF:-1 ,AlternativnaTV _29
-http://bos.00387.info/AlternativnaTV/index.m3u8?token=test
-#EXTINF:-1 ,BHT1 HD _31
-http://bos.00387.info/BHT1HD/index.m3u8?token=test
-#EXTINF:-1 ,BN TELEVIZIJA HD _32
-http://bos.00387.info/BNTELEVIZIJAHD/index.m3u8?token=test
-#EXTINF:-1 ,BN TELEVIZIJA SD _33
-http://bos.00387.info/BNTELEVIZIJASD/index.m3u8?token=test
-#EXTINF:-1 ,OBNSAT _53
-http://bos.00387.info/OBNSAT/index.m3u8?token=test
-#EXTINF:-1 ,RTRS Plus
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/74
-#EXTINF:-1 ,RTRS _54
-#EXTINF:-1 ,Pink _268
-http://srb.00387.info/Pink/index.m3u8?token=test
-#EXTINF:-1 ,Pink2_269
-http://srb.00387.info/Pink2/index.m3u8?token=test
-#EXTINF:-1 ,Pink3_270
-http://srb.00387.info/Pink3/index.m3u8?token=test
-#EXTINF:-1 ,PINKACTION _271
-http://srb.00387.info/PINKACTION/index.m3u8?token=test
-#EXTINF:-1 ,PINKFILM _272
-http://srb.00387.info/PINKFILM/index.m3u8?token=test
-#EXTINF:-1 ,PINKMOVIES _273
-http://srb.00387.info/PINKMOVIES/index.m3u8?token=test
-#EXTINF:-1 ,PinkWestern _275
-http://srb.00387.info/PinkWestern/index.m3u8?token=test
-#EXTINF:-1 ,PinkMedia Montenegro _196
-http://hrv.00387.info/PinkMediaMontenegro/index.m3u8?token=test
-#EXTINF:-1 ,HRT 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/5
-#EXTINF:-1 ,HRT 2
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/6
-#EXTINF:-1 ,HRT 3
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/7
-#EXTINF:-1 ,HRT 4
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/8
-#EXTINF:-1 ,RTL HR
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/9
-#EXTINF:-1 ,HRT3 HD _178
-http://hrv.00387.info/HRT3HD/index.m3u8?token=test
-#EXTINF:-1 ,HRT3 SD _179
-http://hrv.00387.info/HRT3SD/index.m3u8?token=test
-#EXTINF:-1 ,HRT4 HD _180
-http://hrv.00387.info/HRT4HD/index.m3u8?token=test
-#EXTINF:-1 ,HRT4 SD _181
-http://hrv.00387.info/HRT4SD/index.m3u8?token=test
-#EXTINF:-1 ,HRT5 SD _182
-http://hrv.00387.info/HRT5SD/index.m3u8?token=test
-#EXTINF:-1 ,RTL2 HR _203
-http://hrv.00387.info/RTL2HR/index.m3u8?token=test
-#EXTINF:-1 ,RTL Crime _204
-http://hrv.00387.info/RTLCrime/index.m3u8?token=test
-#EXTINF:-1 ,RTL HR _205
-http://hrv.00387.info/RTLHR/index.m3u8?token=test
-#EXTINF:-1 ,RTL Living _206
-http://hrv.00387.info/RTLLiving/index.m3u8?token=test
-#EXTINF:-1 ,RTL Passion _207
-http://hrv.00387.info/RTLPassion/index.m3u8?token=test
-#EXTINF:-1 ,HNTV _177
-http://hrv.00387.info/HNTV/index.m3u8?token=test
-#EXTINF:-1 ,JadranTV _184
-http://hrv.00387.info/JadranTV/index.m3u8?token=test
-#EXTINF:-1 ,DOMA TV HD _151
-http://hrv.00387.info/DOMATVHD/index.m3u8?token=test
-#EXTINF:-1 ,DOMA TV SD _152
-http://hrv.00387.info/DOMATVSD/index.m3u8?token=test
-#EXTINF:-1 ,Z1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/75
-#EXTINF:-1 ,N1 HR
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/76
-#EXTINF:-1 ,Trend HR
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/77
-#EXTINF:-1 ,Slavonska
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/78
-#EXTINF:-1 ,LaudatoTV _186
-http://hrv.00387.info/LaudatoTV/index.m3u8?token=test
-#EXTINF:-1 ,MrezaST _188
-http://hrv.00387.info/MrezaST/index.m3u8?token=test
-#EXTINF:-1 ,MrezaZG _189
-http://hrv.00387.info/MrezaZG/index.m3u8?token=test
-#EXTINF:-1 ,MRT1_190
-http://hrv.00387.info/MRT1/index.m3u8?token=test
-#EXTINF:-1 ,MRT2_191
-http://hrv.00387.info/MRT2/index.m3u8?token=test
-#EXTINF:-1 ,MRT3_192
-http://hrv.00387.info/MRT3/index.m3u8?token=test
-#EXTINF:-1 ,N1HDHR _193
-http://hrv.00387.info/N1HDHR/index.m3u8?token=test
-#EXTINF:-1 ,NOVATV SD _194
-http://hrv.00387.info/NOVATVSD/index.m3u8?token=test
-#EXTINF:-1 ,Unknown_197
-http://hrv.00387.info/pinkplus/index.m3u8?token=test
-#EXTINF:-1 ,Plava vinkovacka _201
-http://hrv.00387.info/Plavavinkovacka/index.m3u8?token=test
-#EXTINF:-1 ,RTCG Sat _202
-http://hrv.00387.info/RTCGSat/index.m3u8?token=test
-#EXTINF:-1 ,Sitel _208
-http://hrv.00387.info/Sitel/index.m3u8?token=test
-#EXTINF:-1 ,SrceTV _210
-http://hrv.00387.info/SrceTV/index.m3u8?token=test
-#EXTINF:-1 ,Telma _213
-http://hrv.00387.info/Telma/index.m3u8?token=test
-#EXTINF:-1 ,Vesti CG _214
-http://hrv.00387.info/TV-VestiCG/index.m3u8?token=test
-#EXTINF:-1 ,tv1000_215
-http://hrv.00387.info/tv1000/index.m3u8?token=test
-#EXTINF:-1 ,TVIstra _217
-http://hrv.00387.info/TVIstra/index.m3u8?token=test
-#EXTINF:-1 ,TVSibenik _218
-http://hrv.00387.info/TVSibenik/index.m3u8?token=test
-#EXTINF:-1 ,TVZapad _219
-http://hrv.00387.info/TVZapad/index.m3u8?token=test
-#EXTINF:-1 ,Vavoom _221
-http://hrv.00387.info/Vavoom/index.m3u8?token=test
-#EXTINF:-1 ,Z1_223
-http://hrv.00387.info/Z1/index.m3u8?token=test
-#EXTINF:-1 ,ALFATV _27
-http://bos.00387.info/ALFATV/index.m3u8?token=test
-#EXTINF:-1 ,AlJazeera Balkans HD _28
-http://bos.00387.info/AlJazeeraBalkansHD/index.m3u8?token=test
-#EXTINF:-1 ,CITYTV _35
-http://bos.00387.info/CITYTV/index.m3u8?token=test
-#EXTINF:-1 ,Un InvestigationNetwork known_36
-http://bos.00387.info/DOK:Crime&InvestigationNetwork/index.m3u8?token=test
-#EXTINF:-1 ,Travel Channel _38
-http://bos.00387.info/DOK:TravelChannel/index.m3u8?token=test
-#EXTINF:-1 ,FACETV _40
-http://bos.00387.info/FACETV/index.m3u8?token=test
-#EXTINF:-1 ,a1 TVCG
-http://hrv.00387.info/a1TVCG/index.m3u8?token=test
-#EXTINF:-1 ,CINESTAR FANTASY _148
-http://hrv.00387.info/CINESTARFANTASY/index.m3u8?token=test
-#EXTINF:-1 ,Cinestar Premiere 1_149
-http://hrv.00387.info/CinestarPremiere1/index.m3u8?token=test
-#EXTINF:-1 ,Cinestar Premiere 2_150
-http://hrv.00387.info/CinestarPremiere2/index.m3u8?token=test
-#EXTINF:-1 ,Eurosport 2 HD _153
-http://hrv.00387.info/Eurosport2HD/index.m3u8?token=test
-#EXTINF:-1 ,DE Sport 1_154
-http://hrv.00387.info/GER:DESkySport1/index.m3u8?token=test
-#EXTINF:-1 ,E!Entertain UHD _155
-http://hrv.00387.info/GER:E!EntertainmUHD/index.m3u8?token=test
-#EXTINF:-1 ,RTL-DE _158
-http://hrv.00387.info/GER:RTL-DE/index.m3u8?token=test
-#EXTINF:-1 ,CINEMA24 UHD _159
-http://hrv.00387.info/GER:SKYCINEMA24UHD/index.m3u8?token=test
-#EXTINF:-1 ,TELE5 HD _163
-http://hrv.00387.info/GER:TELE5HD/index.m3u8?token=test
-#EXTINF:-1 ,TNTCOMEDY UHD _164
-http://hrv.00387.info/GER:TNTCOMEDYUHD/index.m3u8?token=test
-#EXTINF:-1 ,TNTFILM UHD _165
-http://hrv.00387.info/GER:TNTFILMUHD/index.m3u8?token=test
-#EXTINF:-1 ,UNIVERSALCHANNELS UHD _166
-http://hrv.00387.info/GER:UNIVERSALCHANNELSUHD/index.m3u8?token=test
-#EXTINF:-1 ,Glas Drine _41
-http://bos.00387.info/GlasDrine/index.m3u8?token=test
-#EXTINF:-1 ,IDJTV HD _42
-http://bos.00387.info/IDJTVHD/index.m3u8?token=test
-#EXTINF:-1 ,INFOTV _43
-http://bos.00387.info/INFOTV/index.m3u8?token=test
-#EXTINF:-1 ,KANAL6_44
-http://bos.00387.info/KANAL6/index.m3u8?token=test
-#EXTINF:-1 ,MIRTV _46
-http://bos.00387.info/MIRTV/index.m3u8?token=test
-#EXTINF:-1 ,MOJEBUGOJNO _47
-http://bos.00387.info/MOJEBUGOJNO/index.m3u8?token=test
-#EXTINF:-1 ,N1TVHD _48
-http://bos.00387.info/N1TVHD/index.m3u8?token=test
-#EXTINF:-1 ,NOVABHSD _50
-http://bos.00387.info/NOVABHSD/index.m3u8?token=test
-#EXTINF:-1 ,NTVAMNA _51
-http://bos.00387.info/NTVAMNA/index.m3u8?token=test
-#EXTINF:-1 ,NTVICKAKANJ _52
-http://bos.00387.info/NTVICKAKANJ/index.m3u8?token=test
-http://bos.00387.info/RTRS/index.m3u8?token=test
-#EXTINF:-1 ,RTV7TUZLA _55
-http://bos.00387.info/RTV7TUZLA/index.m3u8?token=test
-#EXTINF:-1 ,RTVBUGOJNO _56
-http://bos.00387.info/RTVBUGOJNO/index.m3u8?token=test
-#EXTINF:-1 ,RTVIGMAN _59
-http://bos.00387.info/RTVIGMAN/index.m3u8?token=test
-#EXTINF:-1 ,RTVSLON _62
-http://bos.00387.info/RTVSLON/index.m3u8?token=test
-#EXTINF:-1 ,RTVTK _63
-http://bos.00387.info/RTVTK/index.m3u8?token=test
-#EXTINF:-1 ,RTVUSK _64
-http://bos.00387.info/RTVUSK/index.m3u8?token=test
-#EXTINF:-1 ,RTVZENICA _65
-http://bos.00387.info/RTVZENICA/index.m3u8?token=test
-#EXTINF:-1 ,SEVDAHTV _68
-http://bos.00387.info/SEVDAHTV/index.m3u8?token=test
-#EXTINF:-1 ,Televizija5_69
-http://bos.00387.info/Televizija5/index.m3u8?token=test
-#EXTINF:-1 ,TV1_70
-http://bos.00387.info/TV1/index.m3u8?token=test
-#EXTINF:-1 ,TVGorazde _71
-http://bos.00387.info/TVGorazde/index.m3u8?token=test
-#EXTINF:-1 ,TVKISS _72
-http://bos.00387.info/TVKISS/index.m3u8?token=test
-#EXTINF:-1 ,TVSARAJEVO _73
-http://bos.00387.info/TVSARAJEVO/index.m3u8?token=test
-#EXTINF:-1 ,BELLEAMIENIS _230
-http://srb.00387.info/BELLEAMIENIS/index.m3u8?token=test
-#EXTINF:-1 ,c1_231
-http://srb.00387.info/c1/index.m3u8?token=test
-#EXTINF:-1 ,c2_232
-http://srb.00387.info/c2/index.m3u8?token=test
-#EXTINF:-1 ,c3_233
-http://srb.00387.info/c3/index.m3u8?token=test
-#EXTINF:-1 ,c4_234
-http://srb.00387.info/c4/index.m3u8?token=test
-#EXTINF:-1 ,c5_235
-http://srb.00387.info/c5/index.m3u8?token=test
-#EXTINF:-1 ,c6_236
-http://srb.00387.info/c6/index.m3u8?token=test
-#EXTINF:-1 ,c7_237
-http://srb.00387.info/c7/index.m3u8?token=test
-#EXTINF:-1 ,cinema
-http://srb.00387.info/c8/index.m3u8?token=test
-#EXTINF:-1 ,RTCG1_239
-http://srb.00387.info/CG:RTCG1/index.m3u8?token=test
-#EXTINF:-1 ,RTCG2_240
-http://srb.00387.info/CG:RTCG2/index.m3u8?token=test
-#EXTINF:-1 ,CNN _241
-http://srb.00387.info/CNN/index.m3u8?token=test
-#EXTINF:-1 ,DiscoverySerbia _244
-http://srb.00387.info/DiscoverySerbia/index.m3u8?token=test
-#EXTINF:-1 ,FoxCrimeSouthEastEurope _245
-http://srb.00387.info/FoxCrimeSouthEastEurope/index.m3u8?token=test
-#EXTINF:-1 ,FOXHD _246
-http://srb.00387.info/FOXHD/index.m3u8?token=test
-#EXTINF:-1 ,FoxLifeSouthEastEurope _247
-http://srb.00387.info/FoxLifeSouthEastEurope/index.m3u8?token=test
-#EXTINF:-1 ,DASERSTEHD _248
-http://srb.00387.info/GER:DASERSTEHD/index.m3u8?token=test
-#EXTINF:-1 ,RTL2HD _250
-http://srb.00387.info/GER:RTL2HD/index.m3u8?token=test
-#EXTINF:-1 ,CINEMAACTIONUHD _251
-http://srb.00387.info/GER:SKYCINEMAACTIONUHD/index.m3u8?token=test
-#EXTINF:-1 ,CINEMAHITSUHD _252
-http://srb.00387.info/GER:SKYCINEMAHITSUHD/index.m3u8?token=test
-#EXTINF:-1 ,CINEMAUHD _253
-http://srb.00387.info/GER:SKYCINEMAUHD/index.m3u8?token=test
-#EXTINF:-1 ,VOX _255
-http://srb.00387.info/GER:VOX/index.m3u8?token=test
-#EXTINF:-1 ,ZDFHD _256
-http://srb.00387.info/GER:ZDFHD/index.m3u8?token=test
-#EXTINF:-1 ,HAPPYPAROVI _257
-http://srb.00387.info/HAPPYPAROVI/index.m3u8?token=test
-#EXTINF:-1 ,HAPPYTV1_258
-http://srb.00387.info/HAPPYTV1/index.m3u8?token=test
-#EXTINF:-1 ,FOXMOVIES _259
-http://srb.00387.info/HR:FOXMOVIES/index.m3u8?token=test
-#EXTINF:-1 ,M1Gold _261
-http://srb.00387.info/M1Gold/index.m3u8?token=test
-#EXTINF:-1 ,N1SRB _262
-http://srb.00387.info/N1SRB/index.m3u8?token=test
-#EXTINF:-1 ,NOVAM _263
-http://srb.00387.info/NOVAM/index.m3u8?token=test
-#EXTINF:-1 ,NOVARS _264
-http://srb.00387.info/NOVARS/index.m3u8?token=test
-#EXTINF:-1 ,O2TV _265
-http://srb.00387.info/O2TV/index.m3u8?token=test
-#EXTINF:-1 ,Prva _277
-http://srb.00387.info/Prva/index.m3u8?token=test
-#EXTINF:-1 ,PrvaCG _278
-http://srb.00387.info/PrvaCG/index.m3u8?token=test
-#EXTINF:-1 ,PrvaMaX _279
-http://srb.00387.info/PrvaMaX/index.m3u8?token=test
-#EXTINF:-1 ,PrvaPlus _280
-http://srb.00387.info/PrvaPlus/index.m3u8?token=test
-#EXTINF:-1 ,RTS3_281
-http://srb.00387.info/RTS3/index.m3u8?token=test
-#EXTINF:-1 ,RTSKolo _282
-http://srb.00387.info/RTSKolo/index.m3u8?token=test
-#EXTINF:-1 ,RTV1_283
-http://srb.00387.info/RTV1/index.m3u8?token=test
-#EXTINF:-1 ,RTV2_284
-http://srb.00387.info/RTV2/index.m3u8?token=test
-#EXTINF:-1 ,SCIFI _285
-http://srb.00387.info/SCIFI/index.m3u8?token=test
-#EXTINF:-1 ,SLOTV1_286
-http://srb.00387.info/SL:SLOTV1/index.m3u8?token=test
-#EXTINF:-1 ,SLOTV2_287
-http://srb.00387.info/SL:SLOTV2/index.m3u8?token=test
-#EXTINF:-1 ,tc2_297
-http://srb.00387.info/tc2/index.m3u8?token=test
-#EXTINF:-1 ,tc3_298
-http://srb.00387.info/tc3/index.m3u8?token=test
-#EXTINF:-1 ,TVBANAT _299
-http://srb.00387.info/TVBANAT/index.m3u8?token=test
-#EXTINF:-1 ,TVPalmaPlus _300
-http://srb.00387.info/TVPalmaPlus/index.m3u8?token=test
-#EXTINF:-1 ,PRVA TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/2
-#EXTINF:-1 ,RTS 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/3
-#EXTINF:-1 ,BN TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/4
-#EXTINF:-1 ,RTCG Sat
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/10
-#EXTINF:-1 ,777 Tehnika TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/11
-#EXTINF:-1 ,TV Boin
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/12
-#EXTINF:-1 ,TV Duga
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/13
-#EXTINF:-1 ,Plus TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/14
-#EXTINF:-1 ,TV Hram
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/15
-#EXTINF:-1 ,Studio B
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/16
-#EXTINF:-1 ,Z1 TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/17
-#EXTINF:-1 ,Radio S1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/18
-#EXTINF:-1 ,Balkanika Music TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/19
-#EXTINF:-1 ,TV Leskovac
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/20
-#EXTINF:-1 ,TV Hema
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/21
-#EXTINF:-1 ,Flow Sports 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/22
-#EXTINF:-1 ,FOX Sport HD 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/23
-#EXTINF:-1 ,MOTOR SPORT
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/24
-#EXTINF:-1 ,CBC Sofra
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/28
-#EXTINF:-1 ,Viasat Sport HD
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/29
-#EXTINF:-1 ,History HD
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/30
-#EXTINF:-1 ,NOVA TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/47
-#EXTINF:-1 ,Hayat
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/49
-#EXTINF:-1 ,Heppy TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/50
-#EXTINF:-1 ,K:CN 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/80
-#EXTINF:-1 ,K:CN 2
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/81
-#EXTINF:-1 ,K:CN 3
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/82
-#EXTINF:-1 ,Belle Amie
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/83
-#EXTINF:-1 ,RTV 1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/84
-#EXTINF:-1 ,RTV 2
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/85
-#EXTINF:-1 ,Sehara TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/87
-#EXTINF:-1 ,TV B1
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/88
-#EXTINF:-1 ,Izvorna TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/89
-#EXTINF:-1 ,N1 BH
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/90
-#EXTINF:-1 ,N1 SRB
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/91
-#EXTINF:-1 ,Al Jazeera English
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/93
-#EXTINF:-1 ,Pruga TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/73
-#EXTINF:-1 ,Banovina TV
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/79
-#EXTINF:-1 ,Al Jazira Balkan
-http://webtv.ptorrent.me:80/WeTnKhV7Hl/24J1GcEJNU/92
+#EXTM3U
+#EXTINF:-1,HRVATSKA
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/527
+#EXTINF:0,http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/527
+#EXTINF:0,HRT 1 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/25
+#EXTINF:0,HRT 2 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/26
+#EXTINF:0,HRT 3 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/269
+#EXTINF:0,HRT 4 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/270
+#EXTINF:0,HRT Int. (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/271
+#EXTINF:0,NOVA TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/226
+#EXTINF:0,DOMA TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/225
+#EXTINF:0,NOVA TV HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/29
+#EXTINF:0,DOMA TV HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/30
+#EXTINF:0,NOVA Family (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2968
+#EXTINF:0,RTL Televizija (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/31
+#EXTINF:0,RTL HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1708
+#EXTINF:0,RTL 2 (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/32
+#EXTINF:0,RTL Passion (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1666
+#EXTINF:0,RTL Crime (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1665
+#EXTINF:0,RTL ADRIA (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1639
+#EXTINF:0,Crime & Investigation (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/749
+#EXTINF:0,RTL Living (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/231
+#EXTINF:0,Z1 Televizija (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/140
+#EXTINF:0,N1 TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/227
+#EXTINF:0,Laudato TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/42
+#EXTINF:0,STV Slavonija (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/230
+#EXTINF:0,VINKOVACKA TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/981
+#EXTINF:0,OSJECKA TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/982
+#EXTINF:0,MEDJUGORJE TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/997
+#EXTINF:0,Banovina TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/995
+#EXTINF:0,24 Kitchen (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/267
+#EXTINF:0,HRTV BAYERN HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1640
+#EXTINF:0,BITANGE I PRINCEZE (24/7)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2970
+#EXTINF:0,http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/526
+#EXTINF:0,BHT 1 (BiH)
+http://sps1.tvmoip.com:18080/TestIvo2/IvoTest2/65
+#EXTINF:0,FEDERALNA TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/104
+#EXTINF:0,NOVA TV HD (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/110
+#EXTINF:0,OBN (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/95
+#EXTINF:0,FACE TV HD (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/222
+#EXTINF:0,Al Jazeera Balkans (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/119
+#EXTINF:0,HAYAT HD (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/116
+#EXTINF:0,HAYAT Plus (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/249
+#EXTINF:0,HAYATOVCI (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/182
+#EXTINF:0,RTRS (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/103
+#EXTINF:0,RTRS Plus (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/139
+#EXTINF:0,N1 TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/111
+#EXTINF:0,RTV SANA (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2959
+#EXTINF:0,TV ZENICA (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2960
+#EXTINF:0,TV 7 (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2961
+#EXTINF:0,VIKOM TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2966
+#EXTINF:0,Jadran TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/245
+#EXTINF:0,RTV HercegBosne (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1622
+#EXTINF:0,City TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/244
+#EXTINF:0,TK Tuzla (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/272
+#EXTINF:0,ATV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/138
+#EXTINF:0,IZVORNA TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/262
+#EXTINF:0,TV Sarajevo (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/144
+#EXTINF:0,MTV Igman (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/53
+#EXTINF:0,TV 1 (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/246
+#EXTINF:0,MOJA TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/259
+#EXTINF:0,OTV Valentino (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/247
+#EXTINF:0,TV USK (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/250
+#EXTINF:0,TV Slon (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/248
+#EXTINF:0,BN HD (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/59
+#EXTINF:0,Posavina TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/251
+#EXTINF:0,Sehara TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/983
+#EXTINF:0,Sevdah (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/984
+#EXTINF:0,HEMA TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/996
+#EXTINF:0,ALFA TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/998
+#EXTINF:0,NARODNA TV (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2967
+#EXTINF:0,LUD -  ZBUNJEN, NORMALAN (24/7)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2969
+#EXTINF:0,http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/528
+#EXTINF:0,RTS 1 HD (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/48
+#EXTINF:0,RTS 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/115
+#EXTINF:0,RTS 3 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/276
+#EXTINF:0,RTS Drama (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/317
+#EXTINF:0,RTS SVET (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2957
+#EXTINF:0,RTS TREZOR (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2958
+#EXTINF:0,PRVA TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/113
+#EXTINF:0,PRVA PLUS (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/114
+#EXTINF:0,PRVA MAX (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/679
+#EXTINF:0,NOVA TV S HD (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/89
+#EXTINF:0,PRVA WORLD (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/256
+#EXTINF:0,HAPPY (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/120
+#EXTINF:0,RTV 1 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/254
+#EXTINF:0,RTV 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2962
+#EXTINF:0,O2 TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/118
+#EXTINF:0,Studio B (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/121
+#EXTINF:0,N1 TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/112
+#EXTINF:0,SUPERSTAR TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2963
+#EXTINF:0,Pink 1 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/90
+#EXTINF:0,Pink 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/91
+#EXTINF:0,PINK 3 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/257
+#EXTINF:0,Zadruga 1 (24/7)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1695
+#EXTINF:0,Zadruga 2 (24/7)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1696
+#EXTINF:0,Zadruga 3 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1697
+#EXTINF:0,Zadruga 4 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/1698
+#EXTINF:0,Pink Western (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/98
+#EXTINF:0,Pink Reality (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/99
+#EXTINF:0,Pink Movies (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/100
+#EXTINF:0,Pink Zabava (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/199
+#EXTINF:0,Pink Crime & Mystery (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/200
+#EXTINF:0,Pink World (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/312
+#EXTINF:0,Pink Plus (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/342
+#EXTINF:0,Pink Kuvar (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/343
+#EXTINF:0,Pink Pedia (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/344
+#EXTINF:0,Pink BiH (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/352
+#EXTINF:0,Pink M (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/353
+#EXTINF:0,Pink Style (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/311
+#EXTINF:0,Pink Soap (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/310
+#EXTINF:0,Pink Sci-Fi (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/315
+#EXTINF:0,Pink Romance (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/314
+#EXTINF:0,Pink Horor (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/309
+#EXTINF:0,Pink Extra (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/308
+#EXTINF:0,Pink Thriller (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/485
+#EXTINF:0,Pink Classic (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/313
+#EXTINF:0,Pink Film (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/92
+#EXTINF:0,Pink Comedy (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/96
+#EXTINF:0,Pink HA-HA (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/989
+#EXTINF:0,Pink LoL (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/988
+#EXTINF:0,Pink Fashion (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/992
+#EXTINF:0,Pink Action (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/94
+#EXTINF:0,BELA LADJA (24/7)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/2971
+#EXTINF:0,http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/539
+#EXTINF:0,CMC TV HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/47
+#EXTINF:0,MTV Adria (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/240
+#EXTINF:0,JUGOTON TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/117
+#EXTINF:0,GRAND TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/107
+#EXTINF:0,GRAND TV 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/97
+#EXTINF:0,Pink Folk 1 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/101
+#EXTINF:0,Pink Folk 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/102
+#EXTINF:0,DM SAT (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/108
+#EXTINF:0,IDJ TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/109
+#EXTINF:0,Balkanika (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/392
+#EXTINF:0,HAYAT Music (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/105
+#EXTINF:0,HAYAT FOLK (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/141
+#EXTINF:0,BN Music (BiH)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/253
+#EXTINF:0,TOP SOUND TV (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/987
+#EXTINF:0,Pink Music (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/993
+#EXTINF:0,Pink Music 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/994
+#EXTINF:0,KCN 1 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/255
+#EXTINF:0,KCN 2 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/261
+#EXTINF:0,KCN 3 (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/779
+#EXTINF:0,http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/656
+#EXTINF:0,HBO HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/499
+#EXTINF:0,HBO 2 (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/40
+#EXTINF:0,HBO 3 (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/41
+#EXTINF:0,FOX TV HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/52
+#EXTINF:0,FOX MOVIES HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/124
+#EXTINF:0,FOX Life (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/54
+#EXTINF:0,FOX CRIME HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/123
+#EXTINF:0,Filmbox Plus (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/348
+#EXTINF:0,Filmbox Extra (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/349
+#EXTINF:0,AXN Adria (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/347
+#EXTINF:0,TV 1000 (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/350
+#EXTINF:0,KLASIK TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/351
+#EXTINF:0,MAX Select 1 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/426
+#EXTINF:0,MAX Select 2 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/427
+#EXTINF:0,MAX Select 3 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/428
+#EXTINF:0,MAX Select 4 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/483
+#EXTINF:0,MAX Select 5 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/484
+#EXTINF:0,MAX Select Premium HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/429
+#EXTINF:0,MAX Select Kids HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/482
+#EXTINF:0,CineStar HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/45
+#EXTINF:0,CineStar Action (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/46
+#EXTINF:0,CineStar Premiere 1 (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/37
+#EXTINF:0,CineStar Premiere 2 (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/38
+#EXTINF:0,Cinemax 1 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/35
+#EXTINF:0,Cinemax 2 HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/36
+#EXTINF:0,Kino TV (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/44
+#EXTINF:0,CineStar Fantasy (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/990
+#EXTINF:0,Cinemania HD (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/991
+#EXTINF:0,http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/538
+#EXTINF:0,History Channel (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/55
+#EXTINF:0,Comedy Central Extra (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/235
+#EXTINF:0,National Geographic Wild HD (HR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/237
+#EXTINF:0,National Geographic HD (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/58
+#EXTINF:0,National Geographic (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/57
+#EXTINF:0,Lov i Ribolov (SR)
+http://mstv.ddns.net:18080/IvoDuvnjakWis2/WisbadenDuvIvo2/142
